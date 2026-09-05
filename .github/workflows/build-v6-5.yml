@@ -1,0 +1,31 @@
+name: Build MASIKA V6.5
+
+on:
+  push:
+    paths:
+      - 'tools/repair_v6_5.py'
+      - 'MASIKA_SENTINEL_UNDER7_PRESSURE_MOMENTUM_v6_4_JOURNAL_GUARDED.xml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-v6-5:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install lxml
+        run: python -m pip install lxml
+      - name: Build and validate V6.5
+        run: python tools/repair_v6_5.py MASIKA_SENTINEL_UNDER7_PRESSURE_MOMENTUM_v6_4_JOURNAL_GUARDED.xml MASIKA_SENTINEL_UNDER7_PRESSURE_MOMENTUM_v6_5_RECOVERY_STATE_REPAIRED.xml
+      - name: Commit V6.5
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add MASIKA_SENTINEL_UNDER7_PRESSURE_MOMENTUM_v6_5_RECOVERY_STATE_REPAIRED.xml
+          git diff --cached --quiet || git commit -m 'Add MASIKA SENTINEL V6.5 recovery-state repair'
+          git push
