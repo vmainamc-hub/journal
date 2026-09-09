@@ -1,0 +1,441 @@
+ Date,Time,Message
+2026-09-09,07:44:32 GMT,RESULT|trade= 101 |outcome= LOSS |exit_digit= 8 |net_pl= -3.12 |conditions= ENTRY|trade= 100 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 4 |u7_10= 8 |u7_20= 13 |u7_50= 35 |rate10= 80 |rate20= 65 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 16 |avg20= 5.3 |high_streak= 1 |low_streak= 0 |repeat20= 1 |wins= 72 |losses= 28 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484975279)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 100 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 4 |u7_10= 8 |u7_20= 13 |u7_50= 35 |rate10= 80 |rate20= 65 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 16 |avg20= 5.3 |high_streak= 1 |low_streak= 0 |repeat20= 1 |wins= 72 |losses= 28 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 100 |outcome= WIN |exit_digit= 4 |net_pl= -2.77 |conditions= ENTRY|trade= 99 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 5 |u7_10= 7 |u7_20= 14 |u7_50= 33 |rate10= 70 |rate20= 70 |rate50= 66 |momentum= 4 |pressure= 3 |volatility= 17 |avg20= 4.8 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 71 |losses= 28 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484963119)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 99 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 5 |u7_10= 7 |u7_20= 14 |u7_50= 33 |rate10= 70 |rate20= 70 |rate50= 66 |momentum= 4 |pressure= 3 |volatility= 17 |avg20= 4.8 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 71 |losses= 28 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 99 |outcome= WIN |exit_digit= 5 |net_pl= -2.89 |conditions= ENTRY|trade= 98 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 6 |u7_10= 7 |u7_20= 13 |u7_50= 33 |rate10= 70 |rate20= 65 |rate50= 66 |momentum= 4 |pressure= 3 |volatility= 18 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 2 |wins= 70 |losses= 28 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484954239)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 98 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 6 |u7_10= 7 |u7_20= 13 |u7_50= 33 |rate10= 70 |rate20= 65 |rate50= 66 |momentum= 4 |pressure= 3 |volatility= 18 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 2 |wins= 70 |losses= 28 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 98 |outcome= WIN |exit_digit= 6 |net_pl= -3.01 |conditions= ENTRY|trade= 97 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 0 |u7_10= 6 |u7_20= 14 |u7_50= 31 |rate10= 60 |rate20= 70 |rate50= 62 |momentum= -2 |pressure= 4 |volatility= 19 |avg20= 4.1 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 69 |losses= 28 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484942459)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 97 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 0 |u7_10= 6 |u7_20= 14 |u7_50= 31 |rate10= 60 |rate20= 70 |rate50= 62 |momentum= -2 |pressure= 4 |volatility= 19 |avg20= 4.1 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 69 |losses= 28 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 97 |outcome= WIN |exit_digit= 0 |net_pl= -3.13 |conditions= ENTRY|trade= 96 |contract=UNDER 7 |stake= 0.7 |entry_digit= 5 |prev_digit= 7 |u7_10= 6 |u7_20= 14 |u7_50= 32 |rate10= 60 |rate20= 70 |rate50= 64 |momentum= -4 |pressure= 4 |volatility= 19 |avg20= 4.2 |high_streak= 0 |low_streak= 1 |repeat20= 1 |wins= 68 |losses= 28 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484930879)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 96 |contract=UNDER 7 |stake= 0.7 |entry_digit= 5 |prev_digit= 7 |u7_10= 6 |u7_20= 14 |u7_50= 32 |rate10= 60 |rate20= 70 |rate50= 64 |momentum= -4 |pressure= 4 |volatility= 19 |avg20= 4.2 |high_streak= 0 |low_streak= 1 |repeat20= 1 |wins= 68 |losses= 28 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 96 |outcome= LOSS |exit_digit= 7 |net_pl= -3.4 |conditions= ENTRY|trade= 95 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 3 |u7_10= 7 |u7_20= 15 |u7_50= 34 |rate10= 70 |rate20= 75 |rate50= 68 |momentum= 2 |pressure= 3 |volatility= 19 |avg20= 3.6 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 68 |losses= 27 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484921519)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 95 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 3 |u7_10= 7 |u7_20= 15 |u7_50= 34 |rate10= 70 |rate20= 75 |rate50= 68 |momentum= 2 |pressure= 3 |volatility= 19 |avg20= 3.6 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 68 |losses= 27 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 95 |outcome= WIN |exit_digit= 3 |net_pl= -3.05 |conditions= ENTRY|trade= 94 |contract=UNDER 7 |stake= 0.7 |entry_digit= 0 |prev_digit= 8 |u7_10= 8 |u7_20= 14 |u7_50= 35 |rate10= 80 |rate20= 70 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 18 |avg20= 3.7 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 67 |losses= 27 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484912699)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 94 |contract=UNDER 7 |stake= 0.7 |entry_digit= 0 |prev_digit= 8 |u7_10= 8 |u7_20= 14 |u7_50= 35 |rate10= 80 |rate20= 70 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 18 |avg20= 3.7 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 67 |losses= 27 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 94 |outcome= LOSS |exit_digit= 8 |net_pl= -3.32 |conditions= ENTRY|trade= 93 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 2 |u7_10= 8 |u7_20= 14 |u7_50= 36 |rate10= 80 |rate20= 70 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 18 |avg20= 3.7 |high_streak= 1 |low_streak= 0 |repeat20= 1 |wins= 67 |losses= 26 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484902739)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 93 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 2 |u7_10= 8 |u7_20= 14 |u7_50= 36 |rate10= 80 |rate20= 70 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 18 |avg20= 3.7 |high_streak= 1 |low_streak= 0 |repeat20= 1 |wins= 67 |losses= 26 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 93 |outcome= WIN |exit_digit= 2 |net_pl= -2.97 |conditions= ENTRY|trade= 92 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 2 |u7_10= 8 |u7_20= 14 |u7_50= 36 |rate10= 80 |rate20= 70 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 18 |avg20= 3.8 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 66 |losses= 26 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484892079)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 92 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 2 |u7_10= 8 |u7_20= 14 |u7_50= 36 |rate10= 80 |rate20= 70 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 18 |avg20= 3.8 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 66 |losses= 26 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 92 |outcome= WIN |exit_digit= 2 |net_pl= -3.09 |conditions= ENTRY|trade= 91 |contract=UNDER 7 |stake= 0.7 |entry_digit= 0 |prev_digit= 9 |u7_10= 6 |u7_20= 12 |u7_50= 36 |rate10= 60 |rate20= 60 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 18 |avg20= 4.2 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 65 |losses= 26 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484881359)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 91 |contract=UNDER 7 |stake= 0.7 |entry_digit= 0 |prev_digit= 9 |u7_10= 6 |u7_20= 12 |u7_50= 36 |rate10= 60 |rate20= 60 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 18 |avg20= 4.2 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 65 |losses= 26 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 91 |outcome= LOSS |exit_digit= 9 |net_pl= -3.36 |conditions= ENTRY|trade= 90 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 2 |u7_10= 7 |u7_20= 12 |u7_50= 35 |rate10= 70 |rate20= 60 |rate50= 70 |momentum= 0 |pressure= 3 |volatility= 17 |avg20= 4.3 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 65 |losses= 25 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484865939)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 90 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 2 |u7_10= 7 |u7_20= 12 |u7_50= 35 |rate10= 70 |rate20= 60 |rate50= 70 |momentum= 0 |pressure= 3 |volatility= 17 |avg20= 4.3 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 65 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 90 |outcome= WIN |exit_digit= 3 |net_pl= -3.01 |conditions= ENTRY|trade= 89 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 0 |u7_10= 10 |u7_20= 18 |u7_50= 38 |rate10= 100 |rate20= 90 |rate50= 76 |momentum= 24 |pressure= 0 |volatility= 15 |avg20= 2.9 |high_streak= 0 |low_streak= 15 |repeat20= 4 |wins= 64 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484798699)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 89 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 0 |u7_10= 10 |u7_20= 18 |u7_50= 38 |rate10= 100 |rate20= 90 |rate50= 76 |momentum= 24 |pressure= 0 |volatility= 15 |avg20= 2.9 |high_streak= 0 |low_streak= 15 |repeat20= 4 |wins= 64 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 89 |outcome= WIN |exit_digit= 0 |net_pl= -3.13 |conditions= ENTRY|trade= 88 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 1 |u7_10= 10 |u7_20= 16 |u7_50= 35 |rate10= 100 |rate20= 80 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 16 |avg20= 3.7 |high_streak= 0 |low_streak= 11 |repeat20= 3 |wins= 63 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484789479)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 88 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 1 |u7_10= 10 |u7_20= 16 |u7_50= 35 |rate10= 100 |rate20= 80 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 16 |avg20= 3.7 |high_streak= 0 |low_streak= 11 |repeat20= 3 |wins= 63 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 88 |outcome= WIN |exit_digit= 1 |net_pl= -3.25 |conditions= ENTRY|trade= 87 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 3 |u7_10= 9 |u7_20= 14 |u7_50= 32 |rate10= 90 |rate20= 70 |rate50= 64 |momentum= 26 |pressure= 1 |volatility= 17 |avg20= 4.4 |high_streak= 0 |low_streak= 7 |repeat20= 3 |wins= 62 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484778579)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 87 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 3 |u7_10= 9 |u7_20= 14 |u7_50= 32 |rate10= 90 |rate20= 70 |rate50= 64 |momentum= 26 |pressure= 1 |volatility= 17 |avg20= 4.4 |high_streak= 0 |low_streak= 7 |repeat20= 3 |wins= 62 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 87 |outcome= WIN |exit_digit= 3 |net_pl= -3.37 |conditions= ENTRY|trade= 86 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 5 |u7_10= 7 |u7_20= 13 |u7_50= 31 |rate10= 70 |rate20= 65 |rate50= 62 |momentum= 8 |pressure= 3 |volatility= 17 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 6 |wins= 61 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484766939)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 86 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 5 |u7_10= 7 |u7_20= 13 |u7_50= 31 |rate10= 70 |rate20= 65 |rate50= 62 |momentum= 8 |pressure= 3 |volatility= 17 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 6 |wins= 61 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 86 |outcome= WIN |exit_digit= 5 |net_pl= -3.49 |conditions= ENTRY|trade= 85 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 5 |u7_10= 6 |u7_20= 14 |u7_50= 31 |rate10= 60 |rate20= 70 |rate50= 62 |momentum= -2 |pressure= 4 |volatility= 19 |avg20= 4.7 |high_streak= 0 |low_streak= 2 |repeat20= 2 |wins= 60 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484752339)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 85 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 5 |u7_10= 6 |u7_20= 14 |u7_50= 31 |rate10= 60 |rate20= 70 |rate50= 62 |momentum= -2 |pressure= 4 |volatility= 19 |avg20= 4.7 |high_streak= 0 |low_streak= 2 |repeat20= 2 |wins= 60 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 85 |outcome= WIN |exit_digit= 5 |net_pl= -3.61 |conditions= ENTRY|trade= 84 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 8 |u7_10= 6 |u7_20= 14 |u7_50= 32 |rate10= 60 |rate20= 70 |rate50= 64 |momentum= -4 |pressure= 4 |volatility= 19 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 6 |wins= 59 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484742879)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 84 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 8 |u7_10= 6 |u7_20= 14 |u7_50= 32 |rate10= 60 |rate20= 70 |rate50= 64 |momentum= -4 |pressure= 4 |volatility= 19 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 6 |wins= 59 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 84 |outcome= WIN |exit_digit= 3 |net_pl= -3.73 |conditions= ENTRY|trade= 83 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 7 |u7_20= 14 |u7_50= 32 |rate10= 70 |rate20= 70 |rate50= 64 |momentum= 6 |pressure= 3 |volatility= 19 |avg20= 5.2 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 58 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484732799)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 83 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 7 |u7_20= 14 |u7_50= 32 |rate10= 70 |rate20= 70 |rate50= 64 |momentum= 6 |pressure= 3 |volatility= 19 |avg20= 5.2 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 58 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 83 |outcome= WIN |exit_digit= 1 |net_pl= -3.85 |conditions= ENTRY|trade= 82 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 5 |u7_10= 9 |u7_20= 14 |u7_50= 33 |rate10= 90 |rate20= 70 |rate50= 66 |momentum= 24 |pressure= 1 |volatility= 18 |avg20= 5.3 |high_streak= 0 |low_streak= 2 |repeat20= 2 |wins= 57 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484723739)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 82 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 5 |u7_10= 9 |u7_20= 14 |u7_50= 33 |rate10= 90 |rate20= 70 |rate50= 66 |momentum= 24 |pressure= 1 |volatility= 18 |avg20= 5.3 |high_streak= 0 |low_streak= 2 |repeat20= 2 |wins= 57 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 82 |outcome= WIN |exit_digit= 5 |net_pl= -3.97 |conditions= ENTRY|trade= 81 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 0 |u7_10= 8 |u7_20= 14 |u7_50= 32 |rate10= 80 |rate20= 70 |rate50= 64 |momentum= 16 |pressure= 2 |volatility= 18 |avg20= 5 |high_streak= 0 |low_streak= 6 |repeat20= 3 |wins= 56 |losses= 25 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484711939)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 81 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 0 |u7_10= 8 |u7_20= 14 |u7_50= 32 |rate10= 80 |rate20= 70 |rate50= 64 |momentum= 16 |pressure= 2 |volatility= 18 |avg20= 5 |high_streak= 0 |low_streak= 6 |repeat20= 3 |wins= 56 |losses= 25 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 81 |outcome= WIN |exit_digit= 0 |net_pl= -4.09 |conditions= ENTRY|trade= 80 |contract=UNDER 7 |stake= 0.7 |entry_digit= 5 |prev_digit= 1 |u7_10= 7 |u7_20= 12 |u7_50= 31 |rate10= 70 |rate20= 60 |rate50= 62 |momentum= 8 |pressure= 3 |volatility= 18 |avg20= 5.2 |high_streak= 0 |low_streak= 3 |repeat20= 5 |wins= 55 |losses= 25 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484700939)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 80 |contract=UNDER 7 |stake= 0.7 |entry_digit= 5 |prev_digit= 1 |u7_10= 7 |u7_20= 12 |u7_50= 31 |rate10= 70 |rate20= 60 |rate50= 62 |momentum= 8 |pressure= 3 |volatility= 18 |avg20= 5.2 |high_streak= 0 |low_streak= 3 |repeat20= 5 |wins= 55 |losses= 25 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 80 |outcome= LOSS |exit_digit= 7 |net_pl= -4.36 |conditions= ENTRY|trade= 79 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 6 |u7_10= 7 |u7_20= 14 |u7_50= 34 |rate10= 70 |rate20= 70 |rate50= 68 |momentum= 2 |pressure= 3 |volatility= 18 |avg20= 4.9 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 55 |losses= 24 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484640459)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 79 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 6 |u7_10= 7 |u7_20= 14 |u7_50= 34 |rate10= 70 |rate20= 70 |rate50= 68 |momentum= 2 |pressure= 3 |volatility= 18 |avg20= 4.9 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 55 |losses= 24 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 79 |outcome= WIN |exit_digit= 6 |net_pl= -4.01 |conditions= ENTRY|trade= 78 |contract=UNDER 7 |stake= 0.7 |entry_digit= 4 |prev_digit= 9 |u7_10= 8 |u7_20= 14 |u7_50= 34 |rate10= 80 |rate20= 70 |rate50= 68 |momentum= 12 |pressure= 2 |volatility= 17 |avg20= 4.6 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 54 |losses= 24 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484627839)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 78 |contract=UNDER 7 |stake= 0.7 |entry_digit= 4 |prev_digit= 9 |u7_10= 8 |u7_20= 14 |u7_50= 34 |rate10= 80 |rate20= 70 |rate50= 68 |momentum= 12 |pressure= 2 |volatility= 17 |avg20= 4.6 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 54 |losses= 24 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 78 |outcome= LOSS |exit_digit= 9 |net_pl= -4.28 |conditions= ENTRY|trade= 77 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 5 |u7_10= 8 |u7_20= 14 |u7_50= 35 |rate10= 80 |rate20= 70 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 17 |avg20= 4.2 |high_streak= 0 |low_streak= 4 |repeat20= 3 |wins= 54 |losses= 23 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484618059)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 77 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 5 |u7_10= 8 |u7_20= 14 |u7_50= 35 |rate10= 80 |rate20= 70 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 17 |avg20= 4.2 |high_streak= 0 |low_streak= 4 |repeat20= 3 |wins= 54 |losses= 23 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 77 |outcome= WIN |exit_digit= 5 |net_pl= -3.93 |conditions= ENTRY|trade= 76 |contract=UNDER 7 |stake= 0.7 |entry_digit= 1 |prev_digit= 8 |u7_10= 6 |u7_20= 13 |u7_50= 33 |rate10= 60 |rate20= 65 |rate50= 66 |momentum= -6 |pressure= 4 |volatility= 18 |avg20= 4.6 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 53 |losses= 23 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484607959)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 76 |contract=UNDER 7 |stake= 0.7 |entry_digit= 1 |prev_digit= 8 |u7_10= 6 |u7_20= 13 |u7_50= 33 |rate10= 60 |rate20= 65 |rate50= 66 |momentum= -6 |pressure= 4 |volatility= 18 |avg20= 4.6 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 53 |losses= 23 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 76 |outcome= LOSS |exit_digit= 8 |net_pl= -4.2 |conditions= ENTRY|trade= 75 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 2 |u7_10= 6 |u7_20= 13 |u7_50= 33 |rate10= 60 |rate20= 65 |rate50= 66 |momentum= -6 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 53 |losses= 22 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484598719)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 75 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 2 |u7_10= 6 |u7_20= 13 |u7_50= 33 |rate10= 60 |rate20= 65 |rate50= 66 |momentum= -6 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 53 |losses= 22 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 75 |outcome= WIN |exit_digit= 2 |net_pl= -3.85 |conditions= ENTRY|trade= 74 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 3 |u7_10= 6 |u7_20= 13 |u7_50= 34 |rate10= 60 |rate20= 65 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 52 |losses= 22 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484588339)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 74 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 3 |u7_10= 6 |u7_20= 13 |u7_50= 34 |rate10= 60 |rate20= 65 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 52 |losses= 22 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 74 |outcome= WIN |exit_digit= 3 |net_pl= -3.97 |conditions= ENTRY|trade= 73 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 0 |u7_10= 7 |u7_20= 13 |u7_50= 36 |rate10= 70 |rate20= 65 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 19 |avg20= 4.6 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 51 |losses= 22 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484578899)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 73 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 0 |u7_10= 7 |u7_20= 13 |u7_50= 36 |rate10= 70 |rate20= 65 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 19 |avg20= 4.6 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 51 |losses= 22 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 73 |outcome= WIN |exit_digit= 0 |net_pl= -4.09 |conditions= ENTRY|trade= 72 |contract=UNDER 7 |stake= 11.2 |entry_digit= 1 |prev_digit= 8 |u7_10= 7 |u7_20= 13 |u7_50= 36 |rate10= 70 |rate20= 65 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 19 |avg20= 4.6 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 50 |losses= 22 |next_stake= 11.2 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 4.31
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484570859)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 72 |contract=UNDER 7 |stake= 11.2 |entry_digit= 1 |prev_digit= 8 |u7_10= 7 |u7_20= 13 |u7_50= 36 |rate10= 70 |rate20= 65 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 19 |avg20= 4.6 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 50 |losses= 22 |next_stake= 11.2 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 72 |outcome= LOSS |exit_digit= 8 |net_pl= -8.4 |conditions= ENTRY|trade= 71 |contract=UNDER 7 |stake= 5.6 |entry_digit= 5 |prev_digit= 7 |u7_10= 7 |u7_20= 14 |u7_50= 37 |rate10= 70 |rate20= 70 |rate50= 74 |momentum= -4 |pressure= 3 |volatility= 19 |avg20= 4.7 |high_streak= 0 |low_streak= 1 |repeat20= 5 |wins= 50 |losses= 21 |next_stake= 5.6 |factor= 2 11.2
+2026-09-09,07:44:32 GMT,Loss amount: -5.6
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484559279)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 71 |contract=UNDER 7 |stake= 5.6 |entry_digit= 5 |prev_digit= 7 |u7_10= 7 |u7_20= 14 |u7_50= 37 |rate10= 70 |rate20= 70 |rate50= 74 |momentum= -4 |pressure= 3 |volatility= 19 |avg20= 4.7 |high_streak= 0 |low_streak= 1 |repeat20= 5 |wins= 50 |losses= 21 |next_stake= 5.6 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 71 |outcome= LOSS |exit_digit= 7 |net_pl= -2.8 |conditions= ENTRY|trade= 70 |contract=UNDER 7 |stake= 2.8 |entry_digit= 1 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 36 |rate10= 60 |rate20= 65 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 19 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 50 |losses= 20 |next_stake= 2.8 |factor= 2 5.6
+2026-09-09,07:44:32 GMT,Loss amount: -2.8
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484549719)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 70 |contract=UNDER 7 |stake= 2.8 |entry_digit= 1 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 36 |rate10= 60 |rate20= 65 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 19 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 50 |losses= 20 |next_stake= 2.8 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 70 |outcome= LOSS |exit_digit= 9 |net_pl= 0 |conditions= ENTRY|trade= 69 |contract=UNDER 7 |stake= 1.4 |entry_digit= 6 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 36 |rate10= 60 |rate20= 65 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 18 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 50 |losses= 19 |next_stake= 1.4 |factor= 2 2.8
+2026-09-09,07:44:32 GMT,Loss amount: -1.4
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484540779)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 69 |contract=UNDER 7 |stake= 1.4 |entry_digit= 6 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 36 |rate10= 60 |rate20= 65 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 18 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 50 |losses= 19 |next_stake= 1.4 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 69 |outcome= LOSS |exit_digit= 9 |net_pl= 1.4 |conditions= ENTRY|trade= 68 |contract=UNDER 7 |stake= 0.7 |entry_digit= 2 |prev_digit= 7 |u7_10= 7 |u7_20= 14 |u7_50= 36 |rate10= 70 |rate20= 70 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 18 |avg20= 4.5 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 50 |losses= 18 |next_stake= 0.7 |factor= 2 1.4
+2026-09-09,07:44:32 GMT,Loss amount: -0.7
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484531599)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 68 |contract=UNDER 7 |stake= 0.7 |entry_digit= 2 |prev_digit= 7 |u7_10= 7 |u7_20= 14 |u7_50= 36 |rate10= 70 |rate20= 70 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 18 |avg20= 4.5 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 50 |losses= 18 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 68 |outcome= LOSS |exit_digit= 7 |net_pl= 2.1 |conditions= ENTRY|trade= 67 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 5 |u7_10= 6 |u7_20= 14 |u7_50= 37 |rate10= 60 |rate20= 70 |rate50= 74 |momentum= -14 |pressure= 4 |volatility= 18 |avg20= 4.6 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 50 |losses= 17 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484522619)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 67 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 5 |u7_10= 6 |u7_20= 14 |u7_50= 37 |rate10= 60 |rate20= 70 |rate50= 74 |momentum= -14 |pressure= 4 |volatility= 18 |avg20= 4.6 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 50 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 67 |outcome= WIN |exit_digit= 5 |net_pl= 2.45 |conditions= ENTRY|trade= 66 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 3 |u7_10= 6 |u7_20= 14 |u7_50= 38 |rate10= 60 |rate20= 70 |rate50= 76 |momentum= -16 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 49 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484512479)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 66 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 3 |u7_10= 6 |u7_20= 14 |u7_50= 38 |rate10= 60 |rate20= 70 |rate50= 76 |momentum= -16 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 49 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 66 |outcome= WIN |exit_digit= 3 |net_pl= 2.33 |conditions= ENTRY|trade= 65 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 3 |u7_10= 7 |u7_20= 14 |u7_50= 39 |rate10= 70 |rate20= 70 |rate50= 78 |momentum= -8 |pressure= 3 |volatility= 18 |avg20= 4.7 |high_streak= 0 |low_streak= 2 |repeat20= 1 |wins= 48 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484504099)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 65 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 3 |u7_10= 7 |u7_20= 14 |u7_50= 39 |rate10= 70 |rate20= 70 |rate50= 78 |momentum= -8 |pressure= 3 |volatility= 18 |avg20= 4.7 |high_streak= 0 |low_streak= 2 |repeat20= 1 |wins= 48 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 65 |outcome= WIN |exit_digit= 3 |net_pl= 2.21 |conditions= ENTRY|trade= 64 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 5 |u7_10= 7 |u7_20= 15 |u7_50= 39 |rate10= 70 |rate20= 75 |rate50= 78 |momentum= -8 |pressure= 3 |volatility= 17 |avg20= 4 |high_streak= 1 |low_streak= 0 |repeat20= 1 |wins= 47 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484494679)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 64 |contract=UNDER 7 |stake= 0.35 |entry_digit= 7 |prev_digit= 5 |u7_10= 7 |u7_20= 15 |u7_50= 39 |rate10= 70 |rate20= 75 |rate50= 78 |momentum= -8 |pressure= 3 |volatility= 17 |avg20= 4 |high_streak= 1 |low_streak= 0 |repeat20= 1 |wins= 47 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 64 |outcome= WIN |exit_digit= 5 |net_pl= 2.09 |conditions= ENTRY|trade= 63 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 7 |u7_20= 16 |u7_50= 39 |rate10= 70 |rate20= 80 |rate50= 78 |momentum= -8 |pressure= 3 |volatility= 18 |avg20= 3.6 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 46 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484486919)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 63 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 7 |u7_20= 16 |u7_50= 39 |rate10= 70 |rate20= 80 |rate50= 78 |momentum= -8 |pressure= 3 |volatility= 18 |avg20= 3.6 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 46 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 63 |outcome= WIN |exit_digit= 1 |net_pl= 1.97 |conditions= ENTRY|trade= 62 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 0 |u7_10= 7 |u7_20= 16 |u7_50= 40 |rate10= 70 |rate20= 80 |rate50= 80 |momentum= -10 |pressure= 3 |volatility= 18 |avg20= 3.6 |high_streak= 0 |low_streak= 3 |repeat20= 4 |wins= 45 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484475099)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 62 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 0 |u7_10= 7 |u7_20= 16 |u7_50= 40 |rate10= 70 |rate20= 80 |rate50= 80 |momentum= -10 |pressure= 3 |volatility= 18 |avg20= 3.6 |high_streak= 0 |low_streak= 3 |repeat20= 4 |wins= 45 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 62 |outcome= WIN |exit_digit= 0 |net_pl= 1.85 |conditions= ENTRY|trade= 61 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 0 |u7_10= 7 |u7_20= 16 |u7_50= 38 |rate10= 70 |rate20= 80 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 18 |avg20= 3.5 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 44 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484466759)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 61 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 0 |u7_10= 7 |u7_20= 16 |u7_50= 38 |rate10= 70 |rate20= 80 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 18 |avg20= 3.5 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 44 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 61 |outcome= WIN |exit_digit= 0 |net_pl= 1.73 |conditions= ENTRY|trade= 60 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 5 |u7_10= 9 |u7_20= 16 |u7_50= 38 |rate10= 90 |rate20= 80 |rate50= 76 |momentum= 14 |pressure= 1 |volatility= 18 |avg20= 3.7 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 43 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484456559)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 60 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 5 |u7_10= 9 |u7_20= 16 |u7_50= 38 |rate10= 90 |rate20= 80 |rate50= 76 |momentum= 14 |pressure= 1 |volatility= 18 |avg20= 3.7 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 43 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 60 |outcome= WIN |exit_digit= 5 |net_pl= 1.61 |conditions= ENTRY|trade= 59 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 3 |u7_10= 9 |u7_20= 16 |u7_50= 37 |rate10= 90 |rate20= 80 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 17 |avg20= 3.7 |high_streak= 0 |low_streak= 8 |repeat20= 3 |wins= 42 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484448179)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 59 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 3 |u7_10= 9 |u7_20= 16 |u7_50= 37 |rate10= 90 |rate20= 80 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 17 |avg20= 3.7 |high_streak= 0 |low_streak= 8 |repeat20= 3 |wins= 42 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 59 |outcome= WIN |exit_digit= 3 |net_pl= 1.49 |conditions= ENTRY|trade= 58 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 0 |u7_10= 9 |u7_20= 15 |u7_50= 37 |rate10= 90 |rate20= 75 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 17 |avg20= 4.1 |high_streak= 0 |low_streak= 5 |repeat20= 3 |wins= 41 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484438459)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 58 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 0 |u7_10= 9 |u7_20= 15 |u7_50= 37 |rate10= 90 |rate20= 75 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 17 |avg20= 4.1 |high_streak= 0 |low_streak= 5 |repeat20= 3 |wins= 41 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 58 |outcome= WIN |exit_digit= 0 |net_pl= 1.37 |conditions= ENTRY|trade= 57 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 1 |u7_10= 8 |u7_20= 15 |u7_50= 36 |rate10= 80 |rate20= 75 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 18 |avg20= 4.2 |high_streak= 0 |low_streak= 2 |repeat20= 1 |wins= 40 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484431179)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 57 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 1 |u7_10= 8 |u7_20= 15 |u7_50= 36 |rate10= 80 |rate20= 75 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 18 |avg20= 4.2 |high_streak= 0 |low_streak= 2 |repeat20= 1 |wins= 40 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 57 |outcome= WIN |exit_digit= 1 |net_pl= 1.25 |conditions= ENTRY|trade= 56 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 4 |u7_10= 7 |u7_20= 16 |u7_50= 36 |rate10= 70 |rate20= 80 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 18 |avg20= 4.1 |high_streak= 0 |low_streak= 5 |repeat20= 3 |wins= 39 |losses= 17 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484418859)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 56 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 4 |u7_10= 7 |u7_20= 16 |u7_50= 36 |rate10= 70 |rate20= 80 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 18 |avg20= 4.1 |high_streak= 0 |low_streak= 5 |repeat20= 3 |wins= 39 |losses= 17 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 56 |outcome= WIN |exit_digit= 4 |net_pl= 1.13 |conditions= ENTRY|trade= 55 |contract=UNDER 7 |stake= 1.4 |entry_digit= 4 |prev_digit= 0 |u7_10= 7 |u7_20= 16 |u7_50= 36 |rate10= 70 |rate20= 80 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 16 |avg20= 4.2 |high_streak= 0 |low_streak= 2 |repeat20= 7 |wins= 38 |losses= 17 |next_stake= 1.4 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.54
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484407779)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 55 |contract=UNDER 7 |stake= 1.4 |entry_digit= 4 |prev_digit= 0 |u7_10= 7 |u7_20= 16 |u7_50= 36 |rate10= 70 |rate20= 80 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 16 |avg20= 4.2 |high_streak= 0 |low_streak= 2 |repeat20= 7 |wins= 38 |losses= 17 |next_stake= 1.4 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 55 |outcome= LOSS |exit_digit= 0 |net_pl= 0.59 |conditions= ENTRY|trade= 54 |contract=UNDER 7 |stake= 0.7 |entry_digit= 9 |prev_digit= 9 |u7_10= 7 |u7_20= 16 |u7_50= 37 |rate10= 70 |rate20= 80 |rate50= 74 |momentum= -4 |pressure= 3 |volatility= 15 |avg20= 4.1 |high_streak= 2 |low_streak= 0 |repeat20= 3 |wins= 38 |losses= 16 |next_stake= 0.7 |factor= 2 1.4
+2026-09-09,07:44:32 GMT,Loss amount: -0.7
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484395419)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 54 |contract=UNDER 7 |stake= 0.7 |entry_digit= 9 |prev_digit= 9 |u7_10= 7 |u7_20= 16 |u7_50= 37 |rate10= 70 |rate20= 80 |rate50= 74 |momentum= -4 |pressure= 3 |volatility= 15 |avg20= 4.1 |high_streak= 2 |low_streak= 0 |repeat20= 3 |wins= 38 |losses= 16 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 54 |outcome= LOSS |exit_digit= 9 |net_pl= 1.29 |conditions= ENTRY|trade= 53 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 2 |u7_10= 9 |u7_20= 17 |u7_50= 39 |rate10= 90 |rate20= 85 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 15 |avg20= 3.7 |high_streak= 0 |low_streak= 3 |repeat20= 2 |wins= 38 |losses= 15 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484385819)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 53 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 2 |u7_10= 9 |u7_20= 17 |u7_50= 39 |rate10= 90 |rate20= 85 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 15 |avg20= 3.7 |high_streak= 0 |low_streak= 3 |repeat20= 2 |wins= 38 |losses= 15 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 53 |outcome= WIN |exit_digit= 2 |net_pl= 1.64 |conditions= ENTRY|trade= 52 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 9 |u7_20= 16 |u7_50= 39 |rate10= 90 |rate20= 80 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 15 |avg20= 4.2 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 37 |losses= 15 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484374519)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 52 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 9 |u7_20= 16 |u7_50= 39 |rate10= 90 |rate20= 80 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 15 |avg20= 4.2 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 37 |losses= 15 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 52 |outcome= WIN |exit_digit= 4 |net_pl= 1.52 |conditions= ENTRY|trade= 51 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 1 |u7_10= 8 |u7_20= 12 |u7_50= 37 |rate10= 80 |rate20= 60 |rate50= 74 |momentum= 6 |pressure= 2 |volatility= 15 |avg20= 4.8 |high_streak= 0 |low_streak= 2 |repeat20= 2 |wins= 36 |losses= 15 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484354699)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 51 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 1 |u7_10= 8 |u7_20= 12 |u7_50= 37 |rate10= 80 |rate20= 60 |rate50= 74 |momentum= 6 |pressure= 2 |volatility= 15 |avg20= 4.8 |high_streak= 0 |low_streak= 2 |repeat20= 2 |wins= 36 |losses= 15 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 51 |outcome= WIN |exit_digit= 1 |net_pl= 1.4 |conditions= ENTRY|trade= 50 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 2 |u7_10= 7 |u7_20= 13 |u7_50= 38 |rate10= 70 |rate20= 65 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 15 |avg20= 4.5 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 35 |losses= 15 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484345059)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 50 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 2 |u7_10= 7 |u7_20= 13 |u7_50= 38 |rate10= 70 |rate20= 65 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 15 |avg20= 4.5 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 35 |losses= 15 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 50 |outcome= WIN |exit_digit= 2 |net_pl= 1.28 |conditions= ENTRY|trade= 49 |contract=UNDER 7 |stake= 0.7 |entry_digit= 2 |prev_digit= 9 |u7_10= 6 |u7_20= 12 |u7_50= 37 |rate10= 60 |rate20= 60 |rate50= 74 |momentum= -14 |pressure= 4 |volatility= 16 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 34 |losses= 15 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484334699)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 49 |contract=UNDER 7 |stake= 0.7 |entry_digit= 2 |prev_digit= 9 |u7_10= 6 |u7_20= 12 |u7_50= 37 |rate10= 60 |rate20= 60 |rate50= 74 |momentum= -14 |pressure= 4 |volatility= 16 |avg20= 4.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 34 |losses= 15 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 49 |outcome= LOSS |exit_digit= 8 |net_pl= 1.01 |conditions= ENTRY|trade= 48 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 1 |u7_10= 6 |u7_20= 14 |u7_50= 36 |rate10= 60 |rate20= 70 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 17 |avg20= 4.3 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 34 |losses= 14 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484309279)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 48 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 1 |u7_10= 6 |u7_20= 14 |u7_50= 36 |rate10= 60 |rate20= 70 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 17 |avg20= 4.3 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 34 |losses= 14 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 48 |outcome= WIN |exit_digit= 1 |net_pl= 1.36 |conditions= ENTRY|trade= 47 |contract=UNDER 7 |stake= 0.7 |entry_digit= 9 |prev_digit= 9 |u7_10= 7 |u7_20= 16 |u7_50= 36 |rate10= 70 |rate20= 80 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 17 |avg20= 3.9 |high_streak= 2 |low_streak= 0 |repeat20= 2 |wins= 33 |losses= 14 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484300299)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 47 |contract=UNDER 7 |stake= 0.7 |entry_digit= 9 |prev_digit= 9 |u7_10= 7 |u7_20= 16 |u7_50= 36 |rate10= 70 |rate20= 80 |rate50= 72 |momentum= -2 |pressure= 3 |volatility= 17 |avg20= 3.9 |high_streak= 2 |low_streak= 0 |repeat20= 2 |wins= 33 |losses= 14 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 47 |outcome= LOSS |exit_digit= 9 |net_pl= 1.09 |conditions= ENTRY|trade= 46 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 2 |u7_10= 8 |u7_20= 18 |u7_50= 35 |rate10= 80 |rate20= 90 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 18 |avg20= 3.6 |high_streak= 0 |low_streak= 5 |repeat20= 5 |wins= 33 |losses= 13 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484292599)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 46 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 2 |u7_10= 8 |u7_20= 18 |u7_50= 35 |rate10= 80 |rate20= 90 |rate50= 70 |momentum= 10 |pressure= 2 |volatility= 18 |avg20= 3.6 |high_streak= 0 |low_streak= 5 |repeat20= 5 |wins= 33 |losses= 13 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 46 |outcome= WIN |exit_digit= 2 |net_pl= 1.44 |conditions= ENTRY|trade= 45 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 4 |u7_10= 8 |u7_20= 18 |u7_50= 34 |rate10= 80 |rate20= 90 |rate50= 68 |momentum= 12 |pressure= 2 |volatility= 16 |avg20= 3.8 |high_streak= 0 |low_streak= 2 |repeat20= 4 |wins= 32 |losses= 13 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484284079)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 45 |contract=UNDER 7 |stake= 0.35 |entry_digit= 4 |prev_digit= 4 |u7_10= 8 |u7_20= 18 |u7_50= 34 |rate10= 80 |rate20= 90 |rate50= 68 |momentum= 12 |pressure= 2 |volatility= 16 |avg20= 3.8 |high_streak= 0 |low_streak= 2 |repeat20= 4 |wins= 32 |losses= 13 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 45 |outcome= WIN |exit_digit= 4 |net_pl= 1.32 |conditions= ENTRY|trade= 44 |contract=UNDER 7 |stake= 0.7 |entry_digit= 5 |prev_digit= 8 |u7_10= 9 |u7_20= 18 |u7_50= 34 |rate10= 90 |rate20= 90 |rate50= 68 |momentum= 22 |pressure= 1 |volatility= 16 |avg20= 3.7 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 31 |losses= 13 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484274699)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 44 |contract=UNDER 7 |stake= 0.7 |entry_digit= 5 |prev_digit= 8 |u7_10= 9 |u7_20= 18 |u7_50= 34 |rate10= 90 |rate20= 90 |rate50= 68 |momentum= 22 |pressure= 1 |volatility= 16 |avg20= 3.7 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 31 |losses= 13 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 44 |outcome= LOSS |exit_digit= 8 |net_pl= 1.05 |conditions= ENTRY|trade= 43 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 4 |u7_10= 10 |u7_20= 17 |u7_50= 35 |rate10= 100 |rate20= 85 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 16 |avg20= 3.9 |high_streak= 0 |low_streak= 15 |repeat20= 8 |wins= 31 |losses= 12 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484266259)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 43 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 4 |u7_10= 10 |u7_20= 17 |u7_50= 35 |rate10= 100 |rate20= 85 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 16 |avg20= 3.9 |high_streak= 0 |low_streak= 15 |repeat20= 8 |wins= 31 |losses= 12 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 43 |outcome= WIN |exit_digit= 4 |net_pl= 1.4 |conditions= ENTRY|trade= 42 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 6 |u7_10= 10 |u7_20= 17 |u7_50= 35 |rate10= 100 |rate20= 85 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 16 |avg20= 3.9 |high_streak= 0 |low_streak= 12 |repeat20= 7 |wins= 30 |losses= 12 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484257219)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 42 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 6 |u7_10= 10 |u7_20= 17 |u7_50= 35 |rate10= 100 |rate20= 85 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 16 |avg20= 3.9 |high_streak= 0 |low_streak= 12 |repeat20= 7 |wins= 30 |losses= 12 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 42 |outcome= WIN |exit_digit= 6 |net_pl= 1.28 |conditions= ENTRY|trade= 41 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 5 |u7_10= 9 |u7_20= 16 |u7_50= 34 |rate10= 90 |rate20= 80 |rate50= 68 |momentum= 22 |pressure= 1 |volatility= 15 |avg20= 4.2 |high_streak= 0 |low_streak= 9 |repeat20= 3 |wins= 29 |losses= 12 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484248219)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 41 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 5 |u7_10= 9 |u7_20= 16 |u7_50= 34 |rate10= 90 |rate20= 80 |rate50= 68 |momentum= 22 |pressure= 1 |volatility= 15 |avg20= 4.2 |high_streak= 0 |low_streak= 9 |repeat20= 3 |wins= 29 |losses= 12 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 41 |outcome= WIN |exit_digit= 5 |net_pl= 1.16 |conditions= ENTRY|trade= 40 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 6 |u7_10= 8 |u7_20= 15 |u7_50= 33 |rate10= 80 |rate20= 75 |rate50= 66 |momentum= 14 |pressure= 2 |volatility= 15 |avg20= 4.3 |high_streak= 0 |low_streak= 6 |repeat20= 1 |wins= 28 |losses= 12 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484238419)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 40 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 6 |u7_10= 8 |u7_20= 15 |u7_50= 33 |rate10= 80 |rate20= 75 |rate50= 66 |momentum= 14 |pressure= 2 |volatility= 15 |avg20= 4.3 |high_streak= 0 |low_streak= 6 |repeat20= 1 |wins= 28 |losses= 12 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 40 |outcome= WIN |exit_digit= 6 |net_pl= 1.04 |conditions= ENTRY|trade= 39 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 3 |u7_10= 7 |u7_20= 13 |u7_50= 32 |rate10= 70 |rate20= 65 |rate50= 64 |momentum= 6 |pressure= 3 |volatility= 16 |avg20= 4.9 |high_streak= 0 |low_streak= 3 |repeat20= 5 |wins= 27 |losses= 12 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484228139)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 39 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 3 |u7_10= 7 |u7_20= 13 |u7_50= 32 |rate10= 70 |rate20= 65 |rate50= 64 |momentum= 6 |pressure= 3 |volatility= 16 |avg20= 4.9 |high_streak= 0 |low_streak= 3 |repeat20= 5 |wins= 27 |losses= 12 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 39 |outcome= WIN |exit_digit= 3 |net_pl= 0.92 |conditions= ENTRY|trade= 38 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 3 |u7_10= 7 |u7_20= 12 |u7_50= 30 |rate10= 70 |rate20= 60 |rate50= 60 |momentum= 10 |pressure= 3 |volatility= 18 |avg20= 5.3 |high_streak= 1 |low_streak= 0 |repeat20= 4 |wins= 26 |losses= 12 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484219619)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 38 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 3 |u7_10= 7 |u7_20= 12 |u7_50= 30 |rate10= 70 |rate20= 60 |rate50= 60 |momentum= 10 |pressure= 3 |volatility= 18 |avg20= 5.3 |high_streak= 1 |low_streak= 0 |repeat20= 4 |wins= 26 |losses= 12 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 38 |outcome= WIN |exit_digit= 3 |net_pl= 0.8 |conditions= ENTRY|trade= 37 |contract=UNDER 7 |stake= 1.4 |entry_digit= 1 |prev_digit= 9 |u7_10= 8 |u7_20= 12 |u7_50= 32 |rate10= 80 |rate20= 60 |rate50= 64 |momentum= 16 |pressure= 2 |volatility= 18 |avg20= 5.2 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 25 |losses= 12 |next_stake= 1.4 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.54
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484209259)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 37 |contract=UNDER 7 |stake= 1.4 |entry_digit= 1 |prev_digit= 9 |u7_10= 8 |u7_20= 12 |u7_50= 32 |rate10= 80 |rate20= 60 |rate50= 64 |momentum= 16 |pressure= 2 |volatility= 18 |avg20= 5.2 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 25 |losses= 12 |next_stake= 1.4 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 37 |outcome= LOSS |exit_digit= 9 |net_pl= 0.26 |conditions= ENTRY|trade= 36 |contract=UNDER 7 |stake= 0.7 |entry_digit= 7 |prev_digit= 9 |u7_10= 6 |u7_20= 14 |u7_50= 34 |rate10= 60 |rate20= 70 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 19 |avg20= 4.3 |high_streak= 2 |low_streak= 0 |repeat20= 3 |wins= 25 |losses= 11 |next_stake= 0.7 |factor= 2 1.4
+2026-09-09,07:44:32 GMT,Loss amount: -0.7
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484148159)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 36 |contract=UNDER 7 |stake= 0.7 |entry_digit= 7 |prev_digit= 9 |u7_10= 6 |u7_20= 14 |u7_50= 34 |rate10= 60 |rate20= 70 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 19 |avg20= 4.3 |high_streak= 2 |low_streak= 0 |repeat20= 3 |wins= 25 |losses= 11 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 36 |outcome= LOSS |exit_digit= 9 |net_pl= 0.96 |conditions= ENTRY|trade= 35 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 8 |u7_20= 15 |u7_50= 36 |rate10= 80 |rate20= 75 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 19 |avg20= 4 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 25 |losses= 10 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484137599)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 35 |contract=UNDER 7 |stake= 0.35 |entry_digit= 9 |prev_digit= 1 |u7_10= 8 |u7_20= 15 |u7_50= 36 |rate10= 80 |rate20= 75 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 19 |avg20= 4 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 25 |losses= 10 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 35 |outcome= WIN |exit_digit= 1 |net_pl= 1.31 |conditions= ENTRY|trade= 34 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 4 |u7_10= 9 |u7_20= 15 |u7_50= 37 |rate10= 90 |rate20= 75 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 19 |avg20= 3.9 |high_streak= 0 |low_streak= 8 |repeat20= 3 |wins= 24 |losses= 10 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484129019)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 34 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 4 |u7_10= 9 |u7_20= 15 |u7_50= 37 |rate10= 90 |rate20= 75 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 19 |avg20= 3.9 |high_streak= 0 |low_streak= 8 |repeat20= 3 |wins= 24 |losses= 10 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 34 |outcome= WIN |exit_digit= 4 |net_pl= 1.19 |conditions= ENTRY|trade= 33 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 0 |u7_10= 9 |u7_20= 15 |u7_50= 37 |rate10= 90 |rate20= 75 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 19 |avg20= 4 |high_streak= 0 |low_streak= 5 |repeat20= 1 |wins= 23 |losses= 10 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484120459)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 33 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 0 |u7_10= 9 |u7_20= 15 |u7_50= 37 |rate10= 90 |rate20= 75 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 19 |avg20= 4 |high_streak= 0 |low_streak= 5 |repeat20= 1 |wins= 23 |losses= 10 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 33 |outcome= WIN |exit_digit= 0 |net_pl= 1.07 |conditions= ENTRY|trade= 32 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 5 |u7_10= 8 |u7_20= 14 |u7_50= 36 |rate10= 80 |rate20= 70 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 19 |avg20= 4.3 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 22 |losses= 10 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484111139)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 32 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 5 |u7_10= 8 |u7_20= 14 |u7_50= 36 |rate10= 80 |rate20= 70 |rate50= 72 |momentum= 8 |pressure= 2 |volatility= 19 |avg20= 4.3 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 22 |losses= 10 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 32 |outcome= WIN |exit_digit= 5 |net_pl= 0.95 |conditions= ENTRY|trade= 31 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 4 |u7_10= 6 |u7_20= 13 |u7_50= 37 |rate10= 60 |rate20= 65 |rate50= 74 |momentum= -14 |pressure= 4 |volatility= 19 |avg20= 4.6 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 21 |losses= 10 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484101259)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 31 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 4 |u7_10= 6 |u7_20= 13 |u7_50= 37 |rate10= 60 |rate20= 65 |rate50= 74 |momentum= -14 |pressure= 4 |volatility= 19 |avg20= 4.6 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 21 |losses= 10 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 31 |outcome= WIN |exit_digit= 4 |net_pl= 0.83 |conditions= ENTRY|trade= 30 |contract=UNDER 7 |stake= 1.4 |entry_digit= 2 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 36 |rate10= 60 |rate20= 65 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 18 |avg20= 4.5 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 20 |losses= 10 |next_stake= 1.4 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.54
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484091879)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 30 |contract=UNDER 7 |stake= 1.4 |entry_digit= 2 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 36 |rate10= 60 |rate20= 65 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 18 |avg20= 4.5 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 20 |losses= 10 |next_stake= 1.4 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 30 |outcome= LOSS |exit_digit= 9 |net_pl= 0.29 |conditions= ENTRY|trade= 29 |contract=UNDER 7 |stake= 0.7 |entry_digit= 1 |prev_digit= 9 |u7_10= 6 |u7_20= 14 |u7_50= 36 |rate10= 60 |rate20= 70 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 17 |avg20= 4.4 |high_streak= 0 |low_streak= 1 |repeat20= 1 |wins= 20 |losses= 9 |next_stake= 0.7 |factor= 2 1.4
+2026-09-09,07:44:32 GMT,Loss amount: -0.7
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484082359)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 29 |contract=UNDER 7 |stake= 0.7 |entry_digit= 1 |prev_digit= 9 |u7_10= 6 |u7_20= 14 |u7_50= 36 |rate10= 60 |rate20= 70 |rate50= 72 |momentum= -12 |pressure= 4 |volatility= 17 |avg20= 4.4 |high_streak= 0 |low_streak= 1 |repeat20= 1 |wins= 20 |losses= 9 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 29 |outcome= LOSS |exit_digit= 9 |net_pl= 0.99 |conditions= ENTRY|trade= 28 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 0 |u7_10= 7 |u7_20= 15 |u7_50= 38 |rate10= 70 |rate20= 75 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 17 |avg20= 4 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 20 |losses= 8 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484072659)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 28 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 0 |u7_10= 7 |u7_20= 15 |u7_50= 38 |rate10= 70 |rate20= 75 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 17 |avg20= 4 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 20 |losses= 8 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 28 |outcome= WIN |exit_digit= 0 |net_pl= 1.34 |conditions= ENTRY|trade= 27 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 3 |u7_10= 7 |u7_20= 15 |u7_50= 38 |rate10= 70 |rate20= 75 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 17 |avg20= 4.1 |high_streak= 0 |low_streak= 3 |repeat20= 1 |wins= 19 |losses= 8 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484064839)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 27 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 3 |u7_10= 7 |u7_20= 15 |u7_50= 38 |rate10= 70 |rate20= 75 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 17 |avg20= 4.1 |high_streak= 0 |low_streak= 3 |repeat20= 1 |wins= 19 |losses= 8 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 27 |outcome= WIN |exit_digit= 3 |net_pl= 1.22 |conditions= ENTRY|trade= 26 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 2 |u7_10= 7 |u7_20= 13 |u7_50= 38 |rate10= 70 |rate20= 65 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 17 |avg20= 4.5 |high_streak= 1 |low_streak= 0 |repeat20= 4 |wins= 18 |losses= 8 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484053219)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 26 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 2 |u7_10= 7 |u7_20= 13 |u7_50= 38 |rate10= 70 |rate20= 65 |rate50= 76 |momentum= -6 |pressure= 3 |volatility= 17 |avg20= 4.5 |high_streak= 1 |low_streak= 0 |repeat20= 4 |wins= 18 |losses= 8 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 26 |outcome= WIN |exit_digit= 2 |net_pl= 1.1 |conditions= ENTRY|trade= 25 |contract=UNDER 7 |stake= 0.7 |entry_digit= 8 |prev_digit= 7 |u7_10= 8 |u7_20= 14 |u7_50= 39 |rate10= 80 |rate20= 70 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 17 |avg20= 4.2 |high_streak= 2 |low_streak= 0 |repeat20= 3 |wins= 17 |losses= 8 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484046139)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 25 |contract=UNDER 7 |stake= 0.7 |entry_digit= 8 |prev_digit= 7 |u7_10= 8 |u7_20= 14 |u7_50= 39 |rate10= 80 |rate20= 70 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 17 |avg20= 4.2 |high_streak= 2 |low_streak= 0 |repeat20= 3 |wins= 17 |losses= 8 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 25 |outcome= LOSS |exit_digit= 7 |net_pl= 0.83 |conditions= ENTRY|trade= 24 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 3 |u7_10= 9 |u7_20= 15 |u7_50= 41 |rate10= 90 |rate20= 75 |rate50= 82 |momentum= 8 |pressure= 1 |volatility= 17 |avg20= 4.4 |high_streak= 0 |low_streak= 7 |repeat20= 1 |wins= 17 |losses= 7 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484036059)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 24 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 3 |u7_10= 9 |u7_20= 15 |u7_50= 41 |rate10= 90 |rate20= 75 |rate50= 82 |momentum= 8 |pressure= 1 |volatility= 17 |avg20= 4.4 |high_streak= 0 |low_streak= 7 |repeat20= 1 |wins= 17 |losses= 7 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 24 |outcome= WIN |exit_digit= 3 |net_pl= 1.18 |conditions= ENTRY|trade= 23 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 4 |u7_10= 7 |u7_20= 15 |u7_50= 41 |rate10= 70 |rate20= 75 |rate50= 82 |momentum= -12 |pressure= 3 |volatility= 18 |avg20= 4.7 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 16 |losses= 7 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484024479)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 23 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 4 |u7_10= 7 |u7_20= 15 |u7_50= 41 |rate10= 70 |rate20= 75 |rate50= 82 |momentum= -12 |pressure= 3 |volatility= 18 |avg20= 4.7 |high_streak= 0 |low_streak= 4 |repeat20= 2 |wins= 16 |losses= 7 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 23 |outcome= WIN |exit_digit= 4 |net_pl= 1.06 |conditions= ENTRY|trade= 22 |contract=UNDER 7 |stake= 0.7 |entry_digit= 2 |prev_digit= 7 |u7_10= 6 |u7_20= 14 |u7_50= 40 |rate10= 60 |rate20= 70 |rate50= 80 |momentum= -20 |pressure= 4 |volatility= 18 |avg20= 5 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 15 |losses= 7 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484017179)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 22 |contract=UNDER 7 |stake= 0.7 |entry_digit= 2 |prev_digit= 7 |u7_10= 6 |u7_20= 14 |u7_50= 40 |rate10= 60 |rate20= 70 |rate50= 80 |momentum= -20 |pressure= 4 |volatility= 18 |avg20= 5 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 15 |losses= 7 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 22 |outcome= LOSS |exit_digit= 7 |net_pl= 0.79 |conditions= ENTRY|trade= 21 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 3 |u7_10= 6 |u7_20= 15 |u7_50= 40 |rate10= 60 |rate20= 75 |rate50= 80 |momentum= -20 |pressure= 4 |volatility= 17 |avg20= 4.6 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 15 |losses= 6 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484008679)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 21 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 3 |u7_10= 6 |u7_20= 15 |u7_50= 40 |rate10= 60 |rate20= 75 |rate50= 80 |momentum= -20 |pressure= 4 |volatility= 17 |avg20= 4.6 |high_streak= 0 |low_streak= 2 |repeat20= 3 |wins= 15 |losses= 6 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 21 |outcome= WIN |exit_digit= 3 |net_pl= 1.14 |conditions= ENTRY|trade= 20 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 2 |u7_10= 6 |u7_20= 15 |u7_50= 39 |rate10= 60 |rate20= 75 |rate50= 78 |momentum= -18 |pressure= 4 |volatility= 17 |avg20= 4.7 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 14 |losses= 6 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23484002639)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 20 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 2 |u7_10= 6 |u7_20= 15 |u7_50= 39 |rate10= 60 |rate20= 75 |rate50= 78 |momentum= -18 |pressure= 4 |volatility= 17 |avg20= 4.7 |high_streak= 1 |low_streak= 0 |repeat20= 3 |wins= 14 |losses= 6 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 20 |outcome= WIN |exit_digit= 2 |net_pl= 1.02 |conditions= ENTRY|trade= 19 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 3 |u7_10= 8 |u7_20= 15 |u7_50= 41 |rate10= 80 |rate20= 75 |rate50= 82 |momentum= -2 |pressure= 2 |volatility= 17 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 13 |losses= 6 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483992299)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 19 |contract=UNDER 7 |stake= 0.35 |entry_digit= 8 |prev_digit= 3 |u7_10= 8 |u7_20= 15 |u7_50= 41 |rate10= 80 |rate20= 75 |rate50= 82 |momentum= -2 |pressure= 2 |volatility= 17 |avg20= 4.8 |high_streak= 1 |low_streak= 0 |repeat20= 2 |wins= 13 |losses= 6 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 19 |outcome= WIN |exit_digit= 3 |net_pl= 0.9 |conditions= ENTRY|trade= 18 |contract=UNDER 7 |stake= 0.7 |entry_digit= 3 |prev_digit= 9 |u7_10= 8 |u7_20= 16 |u7_50= 40 |rate10= 80 |rate20= 80 |rate50= 80 |momentum= 0 |pressure= 2 |volatility= 17 |avg20= 4.3 |high_streak= 0 |low_streak= 1 |repeat20= 5 |wins= 12 |losses= 6 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483981599)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 18 |contract=UNDER 7 |stake= 0.7 |entry_digit= 3 |prev_digit= 9 |u7_10= 8 |u7_20= 16 |u7_50= 40 |rate10= 80 |rate20= 80 |rate50= 80 |momentum= 0 |pressure= 2 |volatility= 17 |avg20= 4.3 |high_streak= 0 |low_streak= 1 |repeat20= 5 |wins= 12 |losses= 6 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 18 |outcome= LOSS |exit_digit= 9 |net_pl= 0.63 |conditions= ENTRY|trade= 17 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 5 |u7_10= 9 |u7_20= 17 |u7_50= 39 |rate10= 90 |rate20= 85 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 17 |avg20= 3.8 |high_streak= 0 |low_streak= 5 |repeat20= 3 |wins= 12 |losses= 5 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483976179)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 17 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 5 |u7_10= 9 |u7_20= 17 |u7_50= 39 |rate10= 90 |rate20= 85 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 17 |avg20= 3.8 |high_streak= 0 |low_streak= 5 |repeat20= 3 |wins= 12 |losses= 5 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 17 |outcome= WIN |exit_digit= 5 |net_pl= 0.98 |conditions= ENTRY|trade= 16 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 4 |u7_10= 9 |u7_20= 17 |u7_50= 39 |rate10= 90 |rate20= 85 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 18 |avg20= 3.3 |high_streak= 0 |low_streak= 3 |repeat20= 3 |wins= 11 |losses= 5 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483970479)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 16 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 4 |u7_10= 9 |u7_20= 17 |u7_50= 39 |rate10= 90 |rate20= 85 |rate50= 78 |momentum= 12 |pressure= 1 |volatility= 18 |avg20= 3.3 |high_streak= 0 |low_streak= 3 |repeat20= 3 |wins= 11 |losses= 5 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 16 |outcome= WIN |exit_digit= 4 |net_pl= 0.86 |conditions= ENTRY|trade= 15 |contract=UNDER 7 |stake= 0.7 |entry_digit= 6 |prev_digit= 8 |u7_10= 8 |u7_20= 16 |u7_50= 39 |rate10= 80 |rate20= 80 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 18 |avg20= 3.5 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 10 |losses= 5 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483964959)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 15 |contract=UNDER 7 |stake= 0.7 |entry_digit= 6 |prev_digit= 8 |u7_10= 8 |u7_20= 16 |u7_50= 39 |rate10= 80 |rate20= 80 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 18 |avg20= 3.5 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 10 |losses= 5 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 15 |outcome= LOSS |exit_digit= 8 |net_pl= 0.59 |conditions= ENTRY|trade= 14 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 6 |u7_10= 8 |u7_20= 17 |u7_50= 40 |rate10= 80 |rate20= 85 |rate50= 80 |momentum= 0 |pressure= 2 |volatility= 18 |avg20= 3.3 |high_streak= 0 |low_streak= 6 |repeat20= 4 |wins= 10 |losses= 4 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483959559)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 14 |contract=UNDER 7 |stake= 0.35 |entry_digit= 3 |prev_digit= 6 |u7_10= 8 |u7_20= 17 |u7_50= 40 |rate10= 80 |rate20= 85 |rate50= 80 |momentum= 0 |pressure= 2 |volatility= 18 |avg20= 3.3 |high_streak= 0 |low_streak= 6 |repeat20= 4 |wins= 10 |losses= 4 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 14 |outcome= WIN |exit_digit= 6 |net_pl= 0.94 |conditions= ENTRY|trade= 13 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 0 |u7_10= 8 |u7_20= 17 |u7_50= 39 |rate10= 80 |rate20= 85 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 18 |avg20= 3.2 |high_streak= 0 |low_streak= 4 |repeat20= 5 |wins= 9 |losses= 4 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483953079)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 13 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 0 |u7_10= 8 |u7_20= 17 |u7_50= 39 |rate10= 80 |rate20= 85 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 18 |avg20= 3.2 |high_streak= 0 |low_streak= 4 |repeat20= 5 |wins= 9 |losses= 4 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 13 |outcome= WIN |exit_digit= 0 |net_pl= 0.82 |conditions= ENTRY|trade= 12 |contract=UNDER 7 |stake= 1.4 |entry_digit= 5 |prev_digit= 9 |u7_10= 8 |u7_20= 17 |u7_50= 39 |rate10= 80 |rate20= 85 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 19 |avg20= 3.2 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 8 |losses= 4 |next_stake= 1.4 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.54
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483945399)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 12 |contract=UNDER 7 |stake= 1.4 |entry_digit= 5 |prev_digit= 9 |u7_10= 8 |u7_20= 17 |u7_50= 39 |rate10= 80 |rate20= 85 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 19 |avg20= 3.2 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 8 |losses= 4 |next_stake= 1.4 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 12 |outcome= LOSS |exit_digit= 9 |net_pl= 0.28 |conditions= ENTRY|trade= 11 |contract=UNDER 7 |stake= 0.7 |entry_digit= 3 |prev_digit= 9 |u7_10= 8 |u7_20= 18 |u7_50= 39 |rate10= 80 |rate20= 90 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 19 |avg20= 2.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 8 |losses= 3 |next_stake= 0.7 |factor= 2 1.4
+2026-09-09,07:44:32 GMT,Loss amount: -0.7
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483939439)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 11 |contract=UNDER 7 |stake= 0.7 |entry_digit= 3 |prev_digit= 9 |u7_10= 8 |u7_20= 18 |u7_50= 39 |rate10= 80 |rate20= 90 |rate50= 78 |momentum= 2 |pressure= 2 |volatility= 19 |avg20= 2.9 |high_streak= 0 |low_streak= 1 |repeat20= 2 |wins= 8 |losses= 3 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 11 |outcome= LOSS |exit_digit= 9 |net_pl= 0.98 |conditions= ENTRY|trade= 10 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 3 |u7_10= 9 |u7_20= 19 |u7_50= 40 |rate10= 90 |rate20= 95 |rate50= 80 |momentum= 10 |pressure= 1 |volatility= 18 |avg20= 2.8 |high_streak= 0 |low_streak= 6 |repeat20= 4 |wins= 8 |losses= 2 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483928999)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 10 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 3 |u7_10= 9 |u7_20= 19 |u7_50= 40 |rate10= 90 |rate20= 95 |rate50= 80 |momentum= 10 |pressure= 1 |volatility= 18 |avg20= 2.8 |high_streak= 0 |low_streak= 6 |repeat20= 4 |wins= 8 |losses= 2 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 10 |outcome= WIN |exit_digit= 3 |net_pl= 1.33 |conditions= ENTRY|trade= 9 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 0 |u7_10= 9 |u7_20= 18 |u7_50= 37 |rate10= 90 |rate20= 90 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 18 |avg20= 3.3 |high_streak= 0 |low_streak= 3 |repeat20= 3 |wins= 7 |losses= 2 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483919879)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 9 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 0 |u7_10= 9 |u7_20= 18 |u7_50= 37 |rate10= 90 |rate20= 90 |rate50= 74 |momentum= 16 |pressure= 1 |volatility= 18 |avg20= 3.3 |high_streak= 0 |low_streak= 3 |repeat20= 3 |wins= 7 |losses= 2 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 9 |outcome= WIN |exit_digit= 0 |net_pl= 1.21 |conditions= ENTRY|trade= 8 |contract=UNDER 7 |stake= 0.7 |entry_digit= 1 |prev_digit= 8 |u7_10= 9 |u7_20= 17 |u7_50= 36 |rate10= 90 |rate20= 85 |rate50= 72 |momentum= 18 |pressure= 1 |volatility= 18 |avg20= 3.7 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 6 |losses= 2 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483913819)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 8 |contract=UNDER 7 |stake= 0.7 |entry_digit= 1 |prev_digit= 8 |u7_10= 9 |u7_20= 17 |u7_50= 36 |rate10= 90 |rate20= 85 |rate50= 72 |momentum= 18 |pressure= 1 |volatility= 18 |avg20= 3.7 |high_streak= 0 |low_streak= 1 |repeat20= 4 |wins= 6 |losses= 2 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 8 |outcome= LOSS |exit_digit= 8 |net_pl= 0.94 |conditions= ENTRY|trade= 7 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 6 |u7_10= 10 |u7_20= 17 |u7_50= 36 |rate10= 100 |rate20= 85 |rate50= 72 |momentum= 28 |pressure= 0 |volatility= 18 |avg20= 4 |high_streak= 0 |low_streak= 14 |repeat20= 3 |wins= 6 |losses= 1 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483908359)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 7 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 6 |u7_10= 10 |u7_20= 17 |u7_50= 36 |rate10= 100 |rate20= 85 |rate50= 72 |momentum= 28 |pressure= 0 |volatility= 18 |avg20= 4 |high_streak= 0 |low_streak= 14 |repeat20= 3 |wins= 6 |losses= 1 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 7 |outcome= WIN |exit_digit= 6 |net_pl= 1.29 |conditions= ENTRY|trade= 6 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 5 |u7_10= 10 |u7_20= 16 |u7_50= 35 |rate10= 100 |rate20= 80 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 18 |avg20= 4 |high_streak= 0 |low_streak= 11 |repeat20= 3 |wins= 5 |losses= 1 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483897619)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 6 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 5 |u7_10= 10 |u7_20= 16 |u7_50= 35 |rate10= 100 |rate20= 80 |rate50= 70 |momentum= 30 |pressure= 0 |volatility= 18 |avg20= 4 |high_streak= 0 |low_streak= 11 |repeat20= 3 |wins= 5 |losses= 1 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 6 |outcome= WIN |exit_digit= 5 |net_pl= 1.17 |conditions= ENTRY|trade= 5 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 0 |u7_10= 9 |u7_20= 14 |u7_50= 35 |rate10= 90 |rate20= 70 |rate50= 70 |momentum= 20 |pressure= 1 |volatility= 18 |avg20= 4.5 |high_streak= 0 |low_streak= 8 |repeat20= 2 |wins= 4 |losses= 1 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483888379)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 5 |contract=UNDER 7 |stake= 0.35 |entry_digit= 1 |prev_digit= 0 |u7_10= 9 |u7_20= 14 |u7_50= 35 |rate10= 90 |rate20= 70 |rate50= 70 |momentum= 20 |pressure= 1 |volatility= 18 |avg20= 4.5 |high_streak= 0 |low_streak= 8 |repeat20= 2 |wins= 4 |losses= 1 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 5 |outcome= WIN |exit_digit= 0 |net_pl= 1.05 |conditions= ENTRY|trade= 4 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 4 |u7_10= 8 |u7_20= 13 |u7_50= 34 |rate10= 80 |rate20= 65 |rate50= 68 |momentum= 12 |pressure= 2 |volatility= 18 |avg20= 5.1 |high_streak= 0 |low_streak= 6 |repeat20= 1 |wins= 3 |losses= 1 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483880899)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 4 |contract=UNDER 7 |stake= 0.35 |entry_digit= 5 |prev_digit= 4 |u7_10= 8 |u7_20= 13 |u7_50= 34 |rate10= 80 |rate20= 65 |rate50= 68 |momentum= 12 |pressure= 2 |volatility= 18 |avg20= 5.1 |high_streak= 0 |low_streak= 6 |repeat20= 1 |wins= 3 |losses= 1 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 4 |outcome= WIN |exit_digit= 4 |net_pl= 0.93 |conditions= ENTRY|trade= 3 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 6 |u7_10= 7 |u7_20= 13 |u7_50= 34 |rate10= 70 |rate20= 65 |rate50= 68 |momentum= 2 |pressure= 3 |volatility= 19 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 3 |wins= 2 |losses= 1 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483869059)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 3 |contract=UNDER 7 |stake= 0.35 |entry_digit= 2 |prev_digit= 6 |u7_10= 7 |u7_20= 13 |u7_50= 34 |rate10= 70 |rate20= 65 |rate50= 68 |momentum= 2 |pressure= 3 |volatility= 19 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 3 |wins= 2 |losses= 1 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 3 |outcome= WIN |exit_digit= 6 |net_pl= 0.81 |conditions= ENTRY|trade= 2 |contract=UNDER 7 |stake= 0.7 |entry_digit= 4 |prev_digit= 8 |u7_10= 6 |u7_20= 13 |u7_50= 33 |rate10= 60 |rate20= 65 |rate50= 66 |momentum= -6 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 1 |losses= 1 |next_stake= 0.7 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.27
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483862559)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 2 |contract=UNDER 7 |stake= 0.7 |entry_digit= 4 |prev_digit= 8 |u7_10= 6 |u7_20= 13 |u7_50= 33 |rate10= 60 |rate20= 65 |rate50= 66 |momentum= -6 |pressure= 4 |volatility= 18 |avg20= 4.8 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 1 |losses= 1 |next_stake= 0.7 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 2 |outcome= LOSS |exit_digit= 8 |net_pl= 0.54 |conditions= ENTRY|trade= 1 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 34 |rate10= 60 |rate20= 65 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 18 |avg20= 4.7 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 1 |losses= 0 |next_stake= 0.35 |factor= 2 0.7
+2026-09-09,07:44:32 GMT,Loss amount: -0.35
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483856179)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 1 |contract=UNDER 7 |stake= 0.35 |entry_digit= 0 |prev_digit= 9 |u7_10= 6 |u7_20= 13 |u7_50= 34 |rate10= 60 |rate20= 65 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 18 |avg20= 4.7 |high_streak= 0 |low_streak= 1 |repeat20= 3 |wins= 1 |losses= 0 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,RESULT|trade= 1 |outcome= WIN |exit_digit= 2 |net_pl= 0.89 |conditions= ENTRY|trade= 0 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 3 |u7_10= 6 |u7_20= 15 |u7_50= 34 |rate10= 60 |rate20= 75 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 16 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 4 |wins= 0 |losses= 0 |next_stake= 0.35 |factor= 2 0.35
+2026-09-09,07:44:32 GMT,Profit amount: 0.12
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483846319)
+2026-09-09,07:44:32 GMT,ENTRY|trade= 0 |contract=UNDER 7 |stake= 0.35 |entry_digit= 6 |prev_digit= 3 |u7_10= 6 |u7_20= 15 |u7_50= 34 |rate10= 60 |rate20= 75 |rate50= 68 |momentum= -8 |pressure= 4 |volatility= 16 |avg20= 4.8 |high_streak= 0 |low_streak= 3 |repeat20= 4 |wins= 0 |losses= 0 |next_stake= 0.35 |factor= 2
+2026-09-09,07:44:32 GMT,SENTINEL UNDER 7 - SAFE ENTRY MODE - waits for all safety gates
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 3
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 6
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 9
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 9
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 6
+2026-09-09,07:44:32 GMT,Profit amount: 0.2
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483598739)
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 2
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 9
+2026-09-09,07:44:32 GMT,Profit amount: 1.19
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483592819)
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 5
+2026-09-09,07:44:32 GMT,Profit amount: 1.19
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 5
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 1
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483575879)
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 2
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 5
+2026-09-09,07:44:32 GMT,Loss amount: -1.01
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483554819)
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 8
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 9
+2026-09-09,07:44:32 GMT,Loss amount: -1
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483538799)
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 7
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 2
+2026-09-09,07:44:32 GMT,Profit amount: 0.2
+2026-09-09,07:44:32 GMT,Bought: (ID: 23483532779)
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 7
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 2
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 2
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 6
+2026-09-09,07:44:32 GMT,Last Appearing Digit> | 5
+2026-09-09,07:44:32 GMT,XML import failed. Load error: Cannot read properties of null (reading 'FULL_BLOCK_FIELDS')
+2026-09-09,07:44:32 GMT,You are using your USD account.
